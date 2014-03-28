@@ -1,0 +1,14 @@
+{
+    "name": "fullonpro/Menu",
+    "description": "Universal menu builder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleg Suvorkov",
+            "email": "olegsuvorkov@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
